@@ -1,4 +1,4 @@
-package getvideo
+package getytvideo
 
 import (
 	"encoding/json"
